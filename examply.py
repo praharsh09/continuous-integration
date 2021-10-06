@@ -1,4 +1,4 @@
-temperature = 10
+temperature = 20
 
 def print_temperature():
     print(temperature)
